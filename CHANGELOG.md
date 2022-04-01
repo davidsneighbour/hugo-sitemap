@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/dnb-org/dnb-hugo-sitemap/compare/v0.0.3...v0.0.4) (2022-04-01)
+
+
+### Build System
+
+* fix post release procedures ([4923868](https://github.com/dnb-org/dnb-hugo-sitemap/commit/4923868bac28274dcdd853e14284bebc186fbe29))
+
 ### [0.0.3](https://github.com/dnb-org/dnb-hugo-sitemap/compare/v0.0.2...v0.0.3) (2022-04-01)
 
 
