@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.0.3...v0.1.0) (2022-04-07)
+
+
+### Build System
+
+* fix post release procedures ([4923868](https://github.com/davidsneighbour/hugo-sitemap/commit/4923868bac28274dcdd853e14284bebc186fbe29))
+
+
+### Chore
+
+* **release:** v0.0.4 ([7a0604a](https://github.com/davidsneighbour/hugo-sitemap/commit/7a0604a0d7febb4fc9063df0206a195d75bd5337))
+* **release:** v0.0.5 ([8af2bb8](https://github.com/davidsneighbour/hugo-sitemap/commit/8af2bb8431925a6b691624a3e2c1c7bc6808f566))
+* update go.mod ([e1b31c7](https://github.com/davidsneighbour/hugo-sitemap/commit/e1b31c705813bcf8cac94d7184822cda1bf55139))
+* updates and repo-renames ([b77c948](https://github.com/davidsneighbour/hugo-sitemap/commit/b77c94820afcccd54ea429060f2e3e21d21c5732))
+
 ### [0.0.5](https://github.com/dnb-org/dnb-hugo-sitemap/compare/v0.0.3...v0.0.5) (2022-04-06)
 
 
