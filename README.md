@@ -22,7 +22,7 @@ Then add this module to your required modules in config.toml.
 ```toml
 [module]
 [[module.imports]]
-path = "github.com/dnb-org/dnb-hugo-sitemap"
+path = "github.com/davidsneighbour/hugo-sitemap"
 ```
 
 The next time you run `hugo` it will download the latest version of the module.
@@ -30,7 +30,7 @@ The next time you run `hugo` it will download the latest version of the module.
 ### Updating
 
 ```shell
-hugo mod get -u github.com/dnb-org/dnb-hugo-sitemap
+hugo mod get -u github.com/davidsneighbour/hugo-sitemap
 hugo mod get -u # update all modules
 ```
 
