@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.0.3...v0.1.1) (2022-04-20)
+
+
+### Chore
+
+* **release:** v0.0.4 ([7a0604a](https://github.com/davidsneighbour/hugo-sitemap/commit/7a0604a0d7febb4fc9063df0206a195d75bd5337))
+* **release:** v0.0.5 ([8af2bb8](https://github.com/davidsneighbour/hugo-sitemap/commit/8af2bb8431925a6b691624a3e2c1c7bc6808f566))
+* **release:** v0.1.0 ([81dd88c](https://github.com/davidsneighbour/hugo-sitemap/commit/81dd88c631da9f1df9d111a1897ea977093ba60f))
+* update go.mod ([e1b31c7](https://github.com/davidsneighbour/hugo-sitemap/commit/e1b31c705813bcf8cac94d7184822cda1bf55139))
+* updates and repo-renames ([b77c948](https://github.com/davidsneighbour/hugo-sitemap/commit/b77c94820afcccd54ea429060f2e3e21d21c5732))
+
+
+### Build System
+
+* fix post release procedures ([4923868](https://github.com/davidsneighbour/hugo-sitemap/commit/4923868bac28274dcdd853e14284bebc186fbe29))
+* update Github organization & use newer NPM dependencies ([#39](https://github.com/davidsneighbour/hugo-sitemap/issues/39)) ([f102de2](https://github.com/davidsneighbour/hugo-sitemap/commit/f102de2c68c7a9a25c68be4b768e795e4ebbb071))
+
 ## [0.1.0](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.0.3...v0.1.0) (2022-04-07)
 
 
