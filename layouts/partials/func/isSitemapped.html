@@ -1,4 +1,4 @@
-{{- $config := site.Params.dnb.sitemap -}}
+{{- $config := site.Params.dnb.sitemap | default dict -}}
 {{- $isSitemapped := $config.enabled | default true -}}
 
 {{- if isset .Params "robotsdisallow" -}}
@@ -10,12 +10,12 @@
           "slug" "hugo-sitemap"
         )
   -}}
-  {{ if eq true .Params.robotsdisallow }}
+  {{- if eq true .Params.robotsdisallow -}}
     {{- $isSitemapped = false -}}
-  {{ end }}
+  {{- end -}}
 {{- end -}}
 
-{{- if isset .Params.config "sitemap" -}}
+{{- if and (isset .Params "config") (isset .Params.config "sitemap") -}}
   {{- if eq .Params.config.sitemap false -}}
     {{- $isSitemapped = false -}}
   {{- end -}}
