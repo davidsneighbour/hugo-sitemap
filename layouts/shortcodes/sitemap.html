@@ -2,7 +2,7 @@
 
 <ul>
   {{- range $config.item -}}
-    <li><a href="#{{- .label | urlize -}}">{{- .label -}}</a></li>
+    <li><a href="{{$.Page.Permalink }}#{{- .label | urlize -}}">{{- .label -}}</a></li>
   {{- end -}}
 </ul>
 
