@@ -2,6 +2,58 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.0.3...v1.1.1) (2022-08-23)
+
+
+### Features
+
+* add frontmatter setup to hide pages from sitemap ([e1cbc68](https://github.com/davidsneighbour/hugo-sitemap/commit/e1cbc6833683a7aac54a526501915c1d8efd6a73)), closes [#48](https://github.com/davidsneighbour/hugo-sitemap/issues/48)
+* add html sitemap ([86472e7](https://github.com/davidsneighbour/hugo-sitemap/commit/86472e7bb9b41304d950e04fca9455b223692e96))
+* add html sitemap partial ([51e60f7](https://github.com/davidsneighbour/hugo-sitemap/commit/51e60f7481a368d1a7131c3b549bd3125ffe2790))
+* add sorting parameters to html sitemap ([87be182](https://github.com/davidsneighbour/hugo-sitemap/commit/87be182fad85369b3d848ba889d3eb11d25e7910))
+
+
+### Bug Fixes
+
+* proper check if configuration exists ([cb4c374](https://github.com/davidsneighbour/hugo-sitemap/commit/cb4c3745e60433fe52473f631d0d6bab59998993))
+* proper subsection links in sitemap html shortcode ([3fa01d9](https://github.com/davidsneighbour/hugo-sitemap/commit/3fa01d9712708c376b3f8af6198c821c78f6c9cf))
+
+
+### Build System
+
+* fix post release procedures ([4923868](https://github.com/davidsneighbour/hugo-sitemap/commit/4923868bac28274dcdd853e14284bebc186fbe29))
+* update Github organization & use newer NPM dependencies ([#39](https://github.com/davidsneighbour/hugo-sitemap/issues/39)) ([f102de2](https://github.com/davidsneighbour/hugo-sitemap/commit/f102de2c68c7a9a25c68be4b768e795e4ebbb071))
+
+
+### Documentation
+
+* update README.md ([56bdae4](https://github.com/davidsneighbour/hugo-sitemap/commit/56bdae44a9ae6e4a2af536bb7e58754e9c412dd7))
+
+
+### Chore
+
+* **config:** move configuration into config directory ([61eb1bb](https://github.com/davidsneighbour/hugo-sitemap/commit/61eb1bb1b9e5bdefe2021a4dacc313e2a973e986))
+* **deps:** update dependencies ([7541f71](https://github.com/davidsneighbour/hugo-sitemap/commit/7541f710b1a97fdafdb4834a304c55f11317670b))
+* **deps:** update dependencies ([c15dda4](https://github.com/davidsneighbour/hugo-sitemap/commit/c15dda410424c6ed77175c79745b9c24bdfdd2f1))
+* **deps:** update dependencies ([431c76a](https://github.com/davidsneighbour/hugo-sitemap/commit/431c76a5db24b997e2ddbe3c0701d4ec01ee2ea3))
+* **deps:** update dependencies ([52168d9](https://github.com/davidsneighbour/hugo-sitemap/commit/52168d9206f1762ee759d29a4ef0d9835988f016))
+* **deps:** update go version in go.mod ([40e2fa3](https://github.com/davidsneighbour/hugo-sitemap/commit/40e2fa33253c2f166e6c050e26e3d46fc641912a))
+* **release:** v0.0.4 ([7a0604a](https://github.com/davidsneighbour/hugo-sitemap/commit/7a0604a0d7febb4fc9063df0206a195d75bd5337))
+* **release:** v0.0.5 ([8af2bb8](https://github.com/davidsneighbour/hugo-sitemap/commit/8af2bb8431925a6b691624a3e2c1c7bc6808f566))
+* **release:** v0.1.0 ([81dd88c](https://github.com/davidsneighbour/hugo-sitemap/commit/81dd88c631da9f1df9d111a1897ea977093ba60f))
+* **release:** v0.1.1 ([01518c9](https://github.com/davidsneighbour/hugo-sitemap/commit/01518c955f22bc1e11b2f6d8ba58cdb2a0218d43))
+* **release:** v0.1.2 ([588f80d](https://github.com/davidsneighbour/hugo-sitemap/commit/588f80d0c6d9ebf8b1ea24d6f78f861415aa5de9))
+* **release:** v0.1.3 ([6db34e1](https://github.com/davidsneighbour/hugo-sitemap/commit/6db34e1378f8a064307a0b95228a670ede22695f))
+* **release:** v1.0.0 ([b73c4e4](https://github.com/davidsneighbour/hugo-sitemap/commit/b73c4e4d29f39a2b5ae323c2b4944c710bdcba65))
+* **release:** v1.0.1 ([4d40a59](https://github.com/davidsneighbour/hugo-sitemap/commit/4d40a591bfba98af91563b75d5b4a854c4aa8285))
+* **release:** v1.0.2 ([e008524](https://github.com/davidsneighbour/hugo-sitemap/commit/e0085244d07e0b016ef2e42e7c010d0ad31206a7))
+* **release:** v1.0.3 ([274f07c](https://github.com/davidsneighbour/hugo-sitemap/commit/274f07cb8bbf5ef828f2c5a64ac7667de7ef73e9))
+* **release:** v1.0.4 ([a67f0bc](https://github.com/davidsneighbour/hugo-sitemap/commit/a67f0bc89b9441f7dfbd306c71dbc1081e41d389))
+* **release:** v1.0.5 ([e1d03c8](https://github.com/davidsneighbour/hugo-sitemap/commit/e1d03c83d9f658dd6b3a38af7fdbf738ddfbdf6c))
+* **release:** v1.1.0 ([4255d64](https://github.com/davidsneighbour/hugo-sitemap/commit/4255d64d59dec8f407f7c3a9ebd16329c507c9eb))
+* update go.mod ([e1b31c7](https://github.com/davidsneighbour/hugo-sitemap/commit/e1b31c705813bcf8cac94d7184822cda1bf55139))
+* updates and repo-renames ([b77c948](https://github.com/davidsneighbour/hugo-sitemap/commit/b77c94820afcccd54ea429060f2e3e21d21c5732))
+
 ## [1.1.0](https://github.com/davidsneighbour/hugo-sitemap/compare/v0.0.3...v1.1.0) (2022-08-23)
 
 
