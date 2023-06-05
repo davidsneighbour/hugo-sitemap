@@ -2,7 +2,3 @@
 
 # TODO read component names into array
 # TODO read replacement configuration into array
-hugo mod get -u ./...
-hugo mod tidy
-
-git add go.mod
