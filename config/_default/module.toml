@@ -6,10 +6,6 @@ extended = false
 min = "0.84.4"
 
 [[mounts]]
-source = "config"
-target = "config"
-
-[[mounts]]
 source = "data"
 target = "data"
 
